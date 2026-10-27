@@ -1,0 +1,96 @@
+{
+  "phien_ban": 1,
+  "mon": [
+    {
+      "ma_mon": "mang-may-tinh",
+      "ten": "Mạng máy tính",
+      "file_cau_hoi": "du-lieu/mang-may-tinh.json",
+      "tai_lieu": [
+        {
+          "ten": "Chương 1 - Tổng quan mạng máy tính",
+          "loai": "Tóm tắt",
+          "file": "tai-lieu/mang-may-tinh/chuong-01-tong-quan-mang-may-tinh.pdf"
+        },
+        {
+          "ten": "Chương 2 - IP và chia subnet",
+          "loai": "Tóm tắt",
+          "file": "tai-lieu/mang-may-tinh/chuong-02-ip-va-chia-subnet.pdf"
+        },
+        {
+          "ten": "Chương 3 - DHCP và DNS",
+          "loai": "Tóm tắt",
+          "file": "tai-lieu/mang-may-tinh/chuong-03-dhcp-va-dns.pdf"
+        },
+        {
+          "ten": "Chương 4 - Mô hình OSI và TCP-IP",
+          "loai": "Tóm tắt",
+          "file": "tai-lieu/mang-may-tinh/chuong-04-mo-hinh-osi-va-tcp-ip.pdf"
+        },
+        {
+          "ten": "Chương 5 - Tầng ứng dụng",
+          "loai": "Tóm tắt",
+          "file": "tai-lieu/mang-may-tinh/chuong-05-tang-ung-dung.pdf"
+        },
+        {
+          "ten": "Chương 6 - Tầng vận chuyển",
+          "loai": "Tóm tắt",
+          "file": "tai-lieu/mang-may-tinh/chuong-06-tang-van-chuyen.pdf"
+        },
+        {
+          "ten": "Chương 7 - Tầng mạng",
+          "loai": "Tóm tắt",
+          "file": "tai-lieu/mang-may-tinh/chuong-07-tang-mang.pdf"
+        },
+        {
+          "ten": "Chương 8 - Tầng liên kết dữ liệu",
+          "loai": "Tóm tắt",
+          "file": "tai-lieu/mang-may-tinh/chuong-08-tang-lien-ket-du-lieu.pdf"
+        },
+        {
+          "ten": "Chương 9 - Phương tiện truyền dẫn",
+          "loai": "Tóm tắt",
+          "file": "tai-lieu/mang-may-tinh/chuong-09-phuong-tien-truyen-dan.pdf"
+        },
+        {
+          "ten": "Chương 10 - Thiết bị mạng",
+          "loai": "Tóm tắt",
+          "file": "tai-lieu/mang-may-tinh/chuong-10-thiet-bi-mang.pdf"
+        },
+        {
+          "ten": "PerfectEN - Chương 1 - Network Control Plane",
+          "loai": "Tóm tắt",
+          "file": "tai-lieu/mang-may-tinh/perfecten-1-network-control-plane.pdf"
+        },
+        {
+          "ten": "PerfectEN - Chương 2 - Data Plane nâng cao",
+          "loai": "Tóm tắt",
+          "file": "tai-lieu/mang-may-tinh/perfecten-2-data-plane-nang-cao.pdf"
+        }
+      ]
+    },
+    {
+      "ma_mon": "xac-suat-thong-ke",
+      "ten": "Xác suất thống kê",
+      "file_cau_hoi": null,
+      "tai_lieu": []
+    },
+    {
+      "ma_mon": "vat-ly-dai-cuong-2",
+      "ten": "Vật lý đại cương 2",
+      "file_cau_hoi": null,
+      "tai_lieu": []
+    },
+    {
+      "ma_mon": "toan-hoc-to-hop",
+      "ten": "Toán học tổ hợp",
+      "file_cau_hoi": null,
+      "tai_lieu": []
+    },
+    {
+      "ma_mon": "oop",
+      "ten": "OOP",
+      "file_cau_hoi": null,
+      "tai_lieu": []
+    }
+  ]
+}
